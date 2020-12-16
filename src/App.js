@@ -13,10 +13,10 @@ export default function App() {
   const [list, setList] = useState([]);
   //const [products, setProducts] = useState([p]);
 
- // function addToList() {
-   // setList(() => [...list, stuff]);
-  //} 
-
+  /*function addToList() {
+    setList(() => [...list, stuff]);
+  } 
+*/
   return (
     <Container maxWidth="sm">
       <AppBar>
